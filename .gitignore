@@ -1,0 +1,6 @@
+# go extra files
+.DS_Store
+.idea/
+output
+
+

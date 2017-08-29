@@ -1,0 +1,16 @@
+; lines starting with ; or # are comments
+; knapsack list
+; num weight/size
+2 21000
+; following lines specify list of objects with properties
+; name   price/value  weight/size
+ZM170740765 10180 10180
+ZM170840636 6435 6435
+ZM170840637 6340 6340
+ZM170840804 10100 10100
+ZM170840805 10005 10005
+ZM170840806 10055 10055
+ZM170840807 10940 10940
+ZM161240072 1600 1600
+ZM170240664 800 800
+ZM170840710 9888 9888
