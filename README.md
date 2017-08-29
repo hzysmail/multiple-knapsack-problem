@@ -39,7 +39,7 @@ env GOOS=windows GOARCH=386 go build
 1. go run main.go
 1. check "output" file
     ```
-    capacity: 42000, max: 41.900, num: 5, time: 0 seconds
+    capacity: 42.000, max: 41.900, num: 5, time: 0 seconds
     knap: name(knap-1-21000), capacity(21.000), used(20.995), num(2)
         item: name(ZM170840807), weight(10.940), value(10.940)
         item: name(ZM170840806), weight(10.055), value(10.055)
