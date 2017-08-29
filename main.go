@@ -239,8 +239,8 @@ func main() {
 		capacity += knap.Weight()
 	}
 	if (args.Divide) {
-		tmp = fmt.Sprintf("capacity: %d, max: %.3f, num: %d, time: %d seconds",
-			capacity, float64(max) / power, num, (endTime - startTime))
+		tmp = fmt.Sprintf("capacity: %.3f, max: %.3f, num: %d, time: %d seconds",
+			float64(capacity) / power, float64(max) / power, num, (endTime - startTime))
 	} else {
 		tmp = fmt.Sprintf("capacity: %d, max: %d, num: %d, time: %d seconds",
 			capacity, max, num, (endTime - startTime))
